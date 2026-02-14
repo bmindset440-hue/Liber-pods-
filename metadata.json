@@ -1,0 +1,8 @@
+
+{
+  "name": "LiberPods Developer & Simulation Portal",
+  "description": "A high-performance simulation and code generation portal for LiberPods, a battery-efficient Android earbud popup utility. This portal demonstrates the event-driven architecture and provides the complete production-ready Kotlin source code.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
